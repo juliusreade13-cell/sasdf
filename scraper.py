@@ -19,7 +19,9 @@ SOURCE_URLS = [
     "https://github.cmliussss.net/https://raw.githubusercontent.com/qmqv/jd07/refs/heads/main/v207-1010.txt",
     "https://ghfast.top/https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt",
     "https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub",
-    "https://gt.1155555.xyz/https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/base64.txt"
+    "https://raw.githubusercontent.com/ts-sf/fly/main/v2",
+    "https://sub.proxygo.org/v2ray.php?key=191c91f624a800e83942463fd667bba5",
+    "https://gt.1155555.xyz/https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/base64.txt" 
 ]
 
 # 3. 垃圾节点过滤黑名单（可自行添加别人节点里的广告词过滤掉）
